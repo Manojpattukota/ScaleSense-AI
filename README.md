@@ -205,3 +205,14 @@ The ScaleSense AI Power BI dashboard presents historical web traffic patterns an
 **Dashboard file:** [`ScaleSense_AI_Dashboard.pbix`](ScaleSense_AI_Dashboard.pbix)
 
 **Note:** High traffic is identified using a historical statistical threshold. It does not independently confirm a server outage or actual infrastructure overload.
+
+
+### Power BI Dashboard Preview
+
+**Dashboard — Overview**
+
+![ScaleSense AI Power BI Dashboard - Overview](dashboards/scalesense_powerbi1.png)
+
+**Dashboard — Additional Analytics**
+
+![ScaleSense AI Power BI Dashboard - Additional Analytics](dashboards/scalesense_powerbi2.png)
