@@ -185,3 +185,23 @@ Explore the complete ScaleSense AI dashboard from top to bottom.
 
 ### Dashboard Overview — Part 7
 ![ScaleSense AI Dashboard 7](dashboards/scalesense_dashboard7.png)
+## 📊 Power BI Dashboard
+
+The ScaleSense AI Power BI dashboard presents historical web traffic patterns and highlights periods of unusually high demand.
+
+### Key Dashboard Insights
+- **Total Requests:** Approximately 1.57 million requests in the analyzed dataset.
+- **Peak Traffic:** 195 requests per minute.
+- **High-Traffic Minutes:** Approximately 2,231 minutes above the historical 95th-percentile threshold.
+- **Hourly Traffic Analysis:** Compare average and peak traffic across the 24 hours of the day.
+- **Daily Traffic Analysis:** Examine daily request volumes and peak loads.
+- **Traffic Risk Summary:** Compare high-traffic minutes and spike percentages by hour.
+
+### Tools Used
+- Power BI Desktop
+- MySQL
+- Power Query and data visualization
+
+**Dashboard file:** [`ScaleSense_AI_Dashboard.pbix`](ScaleSense_AI_Dashboard.pbix)
+
+**Note:** High traffic is identified using a historical statistical threshold. It does not independently confirm a server outage or actual infrastructure overload.
