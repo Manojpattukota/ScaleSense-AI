@@ -161,4 +161,27 @@ This is a portfolio and learning project based on historical web traffic. Spike 
 **Manoj Kumar**  
 Aspiring Data Analyst | Aspiring Data Scientist
 
+## 📸 Dashboard Screenshots
 
+Explore the complete ScaleSense AI dashboard from top to bottom.
+
+### Dashboard Overview — Part 1
+![ScaleSense AI Dashboard 1](dashboards/scalesense_dashboard1.png)
+
+### Dashboard Overview — Part 2
+![ScaleSense AI Dashboard 2](dashboards/scalesense_dashboard2.png)
+
+### Dashboard Overview — Part 3
+![ScaleSense AI Dashboard 3](dashboards/scalesense_dashboard3.png)
+
+### Dashboard Overview — Part 4
+![ScaleSense AI Dashboard 4](dashboards/scalesense_dashboard4.png)
+
+### Dashboard Overview — Part 5
+![ScaleSense AI Dashboard 5](dashboards/scalesense_dashboard5.png)
+
+### Dashboard Overview — Part 6
+![ScaleSense AI Dashboard 6](dashboards/scalesense_dashboard6.png)
+
+### Dashboard Overview — Part 7
+![ScaleSense AI Dashboard 7](dashboards/scalesense_dashboard7.png)
