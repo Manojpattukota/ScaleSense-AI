@@ -1,0 +1,32 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large raw and processed datasets
+data/*.gz
+data/NASA_access_log_Aug95
+data/nasa_traffic_cleaned.csv.gz
+data/traffic_ml_dataset.csv.gz
+
+# Temporary output files
+*.tmp
+*.log
