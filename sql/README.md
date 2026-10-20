@@ -39,3 +39,14 @@ The threshold of 84 requests per minute is based on the historical dataset's 95t
 - MySQL Workbench
 - Power BI
 - Python and Streamlit (for the broader project)
+
+
+### Power BI Dashboard Preview
+
+**Dashboard — Overview**
+
+![ScaleSense AI Power BI Dashboard - Overview](../dashboards/scalesense_powerbi1.png)
+
+**Dashboard — Additional Analytics**
+
+![ScaleSense AI Power BI Dashboard - Additional Analytics](../dashboards/scalesense_powerbi2.png)
